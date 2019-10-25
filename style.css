@@ -41,8 +41,8 @@ figcaption {
    }
 
 #details div {
-    Display:inline-block;
-    Width:20%;
+    display:inline-block;
+    width:25%;
     /*Text-align: center;*/
     }
 
